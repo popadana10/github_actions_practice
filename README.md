@@ -1,9 +1,22 @@
 [![Node.js CI](https://github.com/popadana10/github_actions_practice/actions/workflows/ci.yml/badge.svg)](https://github.com/popadana10/github_actions_practice/actions/workflows/ci.yml)
 
-Dana practice 1
-Teo Practice 1
+# Project Title
 
-Teo Practice 2
-=======
+Github actions practice
 
-Dana practice 1
+## CI/CD Pipeline
+
+This project uses a CI/CD pipeline to automate the testing and deployment process.
+
+### Tools Used
+- GitHub Actions 
+
+### Getting Started
+
+1. Clone the repository.
+2. Install the dependencies.
+3. Run the application.
+
+## Mentor
+
+This project is done under the mentorship of our class teacher Kalwar Santosh.
